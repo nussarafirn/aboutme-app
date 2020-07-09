@@ -5,4 +5,10 @@
     <string name="web_button">Web</string>
     <string name="toast_button">Toast</string>
     <string name="dialog_button">Dialog</string>
+    <string name="hello">Hello!</string>
+    <string name="my_expected_graduation_is_winter_2020">My expected graduation is Winter 2020.</string>
+    <string name="my_favorite_class_so_far_is_machine_learning_but_i_have_a_feeling_that_this_class_will_be_my_second_favorite_class">My favorite class so far is Machine Learning. But I have a feeling that this class will be my second favorite class!</string>
+    <string name="my_name_is_nussara_tieanklin_i_go_by_my_nickname_firn">My name is Nussara Tieanklin. I go by my nickname, Firn.</string>
+    <string name="first_member">First Member</string>
+
 </resources>
